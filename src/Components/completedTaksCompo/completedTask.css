@@ -1,0 +1,34 @@
+
+.completed-tasks {
+    margin-top: 20px;
+}
+
+.completed-tasks h2 {
+    text-align: center;
+    color: #2c3e50;
+}
+
+.completed-tasks ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.completed-tasks li {
+    padding: 10px;
+    border-bottom: 1px solid #ececec;
+}
+
+.completed-tasks li:last-child {
+    border-bottom: none;
+}
+
+.completed-tasks li.completed {
+    text-decoration: line-through;
+    color: #95a5a6;
+}
+
+@media (max-width: 600px) {
+    .completed-tasks h2 {
+        font-size: 18px;
+    }
+}
