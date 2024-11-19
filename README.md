@@ -26,9 +26,9 @@ Es una herramienta ideal para mantener tus actividades organizadas y realizar un
 ## Instalación y Uso
 1. Clona este repositorio:
 
-    cd taskList-react
-    npm install
-    npm start
+-   cd taskList-react
+-   npm install
+-   npm start
 
 
    git clone https://github.com/jesussilva95/taskList-react.git
